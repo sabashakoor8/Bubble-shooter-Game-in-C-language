@@ -1,0 +1,1 @@
+-force-include-file "project.c";"c:\Users\DELL\Downloads\project\project\project.c" -remap-file "c:\Users\DELL\Downloads\project\project\project.h";"c:\Users\DELL\Downloads\project\project\cvibuild.project\Debug\UnsavedChanges\project.h" 

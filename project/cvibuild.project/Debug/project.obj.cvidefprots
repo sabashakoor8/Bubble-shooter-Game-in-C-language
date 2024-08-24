@@ -1,0 +1,115 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:67:5"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:87:17"
+
+[startgamefunc]
+Class="Function"
+Prototype="int startgamefunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:99:17"
+
+[InitializeBubbles]
+Class="Function"
+Prototype="void InitializeBubbles();"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:114:6"
+
+[GenerateNextBubble]
+Class="Function"
+Prototype="void GenerateNextBubble();"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:162:6"
+
+[DrawBubbles]
+Class="Function"
+Prototype="void DrawBubbles(int panelHandle);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:192:6"
+
+[DrawArrow]
+Class="Function"
+Prototype="void DrawArrow(int panelHandle);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:232:6"
+
+[ShootShooterBubble]
+Class="Function"
+Prototype="void ShootShooterBubble(int x, int y);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:243:6"
+
+[MoveShooterBubble]
+Class="Function"
+Prototype="int MoveShooterBubble(void *functionData);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:258:5"
+
+[CheckCluster]
+Class="Function"
+Prototype="int CheckCluster(int bubbleIndex);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:318:5"
+
+[PopBubbleCluster]
+Class="Function"
+Prototype="void PopBubbleCluster(int bubbleIndex);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:359:6"
+
+[AttachBubble]
+Class="Function"
+Prototype="void AttachBubble(int bubbleIndex);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:394:6"
+
+[AddNewRowOfBubbles]
+Class="Function"
+Prototype="void AddNewRowOfBubbles();"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:399:6"
+
+[ResetShooterAndNextBubble]
+Class="Function"
+Prototype="void ResetShooterAndNextBubble();"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:433:6"
+
+[canvafunction]
+Class="Function"
+Prototype="int canvafunction(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:441:17"
+
+[SAVEFILEFUNC]
+Class="Function"
+Prototype="int SAVEFILEFUNC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:460:17"
+
+[SaveScoreToFile]
+Class="Function"
+Prototype="int SaveScoreToFile(void *functionData);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:470:5"
+
+[restartfunc]
+Class="Function"
+Prototype="int restartfunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:481:17"
+
+[MoveBalloon]
+Class="Function"
+Prototype="int MoveBalloon(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:493:17"
+
+[ToggleDifficulty]
+Class="Function"
+Prototype="int ToggleDifficulty(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:506:17"
+
+[SendEmail]
+Class="Function"
+Prototype="int SendEmail(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:516:17"
+
+[SendEmailWithScore]
+Class="Function"
+Prototype="int SendEmailWithScore(void *functionData);"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:525:5"
+
+[UpdateArrowDirection]
+Class="Function"
+Prototype="void UpdateArrowDirection();"
+SourceLocation="c:\Users\DELL\Downloads\project\project\project.c:533:6"
+
